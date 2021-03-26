@@ -1,10 +1,12 @@
 Steps to make it run:
 
-Download the project
-Open the directory in any code editor
-Edit the config.env file and paste the mongodb connection String in variable "DB_CONNECTION_STRING"
-Run npm install , this will install all the required dependencies
-Now run npm start
+1) Download the project
+2) Open the directory in any code editor
+3) Edit the config.env file and paste the mongodb connection String in variable "DB_CONNECTION_STRING"
+4) Run npm install , this will install all the required dependencies
+5) Now run npm start
+
+
 
 
 
