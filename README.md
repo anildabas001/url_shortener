@@ -5,6 +5,7 @@
 3) Edit the config.env file and paste the mongodb connection String in variable "DB_CONNECTION_STRING"
 4) Run npm install , this will install all the required dependencies
 5) Now run npm start
+6) Go to http://localhost:5000
 
 
 
