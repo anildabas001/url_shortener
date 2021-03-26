@@ -1,0 +1,47 @@
+.container {
+    width: 100%;
+    margin: 50px auto;
+    text-align: center;
+    min-height: 90vh;
+}
+
+h1 {
+    font-size: 3.4rem;
+}
+
+form input {
+    display: block;
+    margin: 30px auto;
+    width: 50%;
+    height: 30px;
+    border-radius: 5px;
+    outline: none;
+    font-size: 1.2rem;
+    padding: 5px;
+}
+
+form button {    
+    width: 20%;
+    height: 40px;
+    border-radius: 5px;
+    outline: none;
+    font-size: 1.2rem;
+    cursor: pointer;
+}
+
+form button:hover {    
+    background-color: #222;
+    color: #fff;
+}
+
+.urlOutput {
+    margin-top: 60px;
+    font-weight:normal;
+    font-size: 1.4rem;
+    border-top: 1px solid #aaa;
+    padding-bottom: 20px;
+}
+
+#linkTag:link, #linkTag:visited, #linkTag:active  {
+    color: blue;
+}
